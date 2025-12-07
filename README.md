@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Меня зовут Гюнель
 
-✔️ Изучаю направление ✨Глубокое обучение✨, увлечена AI и глубоким обучением. Развиваюсь в области машинного обучения, нейронных сетей, больших языковых моделей и обработки естественного языка. Люблю узнавать новое, разбираться в нестандартных данных и информации.
+✔️ Изучаю направление ✨Глубокое обучение✨, увлечена AI и глубоким обучением. Развиваюсь в области NLP, нейронных сетей, больших языковых моделей. Люблю узнавать новое, разбираться в нестандартных данных и информации.
 
 ✔️ Мои сертификаты:
 - Инженер по глубокому обучению нейросетей: обработка естественного языка, Яндекс Практикум⚡
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 | Название проекта | Описание | Инструменты |
 | :---: |  :---: | :---: |
-|**Реализация собственной LLM: Pretrain и SFT пайплайны** https://github.com/Katenasarov/create_llm | Разработка end-to-end пайплайнов для обучения языковой модели с нуля (pretrain) на корпусе русской классической литературы и последующего инструктивного обучения (SFT) для получения ассистента. | *Python PyTorch Transformers Hugging Face Tokenizers TRL NLP LLM Pretraining SFT Fine-Tuning Data Processing Text Generation LSTM RuBERT Model Evaluation*|
-|**Хакатон. Предсказание закрытия стартапа** https://github.com/Katenasarov/prediction_closed | Разработка модели машинного обучения для предсказания продолжения деятельности стартапа. | *Python Pandas Plotly Scikit-learn Pipeline CatBoost LGBM XGB AdaBoost*|
-|**Многоцелевая модель для NER и классификации** https://github.com/Katenasarov/NEREL_MultiTask_Notebook | Разработка единой multi-task модели для совместного решения задач распознавания именованных сущностей (NER) и классификации событий. | *Multi-Task Learning RuBERT NER + Text Classification Hugging Face*|
-|**Retrieval-система для научных статей arXiv** https://github.com/Katenasarov/retrieval_sistem | Разработка системы семантического поиска, способной находить наиболее релевантные научные статьи по текстовым запросам с высокой точностью (MRR@5 > 0.91) | *Semantic Search BAAI/bge-base-en-v1.5 Embeddings Hugging Face*|
-|**Система поиска подходящих товаров на основе дообученной CLIP модели** https://github.com/Katenasarov/clip-product-search | Разработка системы поиска товаров по текстовым запросам с использованием дообученной мультимодальной модели CLIP. Проект включает fine-tuning модели | *Python PyTorch Transformers CLIP*|
+|**Реализация собственной LLM: Pretrain и SFT пайплайны** https://github.com/m-gunel/SFT_Pretrain | Разработка end-to-end пайплайнов для обучения языковой модели с нуля (pretrain) на корпусе русской классической литературы и последующего инструктивного обучения (SFT) для получения ассистента. | *Python PyTorch Transformers Hugging Face Tokenizers TRL NLP LLM Pretraining SFT Fine-Tuning Data Processing Text Generation LSTM RuBERT Model Evaluation*|
+|**Многоцелевая модель для NER и классификации** https://github.com/m-gunel/NER_Classification | Разработка единой multi-task модели для совместного решения задач распознавания именованных сущностей (NER) и классификации событий. | *Multi-Task Learning RuBERT NER + Text Classification Hugging Face*|
+|**Retrieval-система для научных статей arXiv** https://github.com/m-gunel/Retrieval-system | Разработка системы семантического поиска, способной находить наиболее релевантные научные статьи по текстовым запросам с высокой точностью (MRR@5 >= 0.9) | *Semantic Search BAAI/bge-base-en-v1.5 Embeddings Hugging Face*|
+|**Система поиска подходящих товаров на основе дообученной CLIP модели** https://github.com/m-gunel/CLIP_model | Разработка системы поиска товаров по текстовым запросам с использованием дообученной мультимодальной модели CLIP. Проект включает fine-tuning модели | *Python PyTorch Transformers CLIP*|
